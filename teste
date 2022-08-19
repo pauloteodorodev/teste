@@ -1,0 +1,11 @@
+.container{
+  h1{
+    font-size: 4em;
+    color: LightSlateGray;
+  }
+  p{
+    font-size: 1em;
+    line-height: 16px;
+    color: $main-color;
+  }
+}
